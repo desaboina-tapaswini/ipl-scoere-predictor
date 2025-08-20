@@ -1,1 +1,1 @@
-# ipl-scoere-predictor
+# ipl-score-predictor
